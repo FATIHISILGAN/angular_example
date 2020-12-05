@@ -78,7 +78,7 @@ body {
     position: relative;
     width: 260px;
     height: 350px;
-    border: 6px double darkred;
+    border: 6px double rgb(150, 12, 12);
     float: right;
 }
 
